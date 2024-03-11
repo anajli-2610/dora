@@ -1,5 +1,0 @@
-hello this is 
-me anjali 
-learning git and github
-
-we are  learning dsa
